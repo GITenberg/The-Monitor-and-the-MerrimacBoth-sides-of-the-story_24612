@@ -1,0 +1,48 @@
+_repo: The-Monitor-and-the-MerrimacBoth-sides-of-the-story_24612
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Worden, John Lorimer
+    birthdate: 1818
+    deathdate: 1897
+    gutenberg_agent_id: '26616'
+    url: http://www.gutenberg.org/2009/agents/26616
+    wikipedia: http://en.wikipedia.org/wiki/John_Lorimer_Worden
+  - agent_name: Ramsay, H. Ashton
+    gutenberg_agent_id: '26624'
+    url: http://www.gutenberg.org/2009/agents/26624
+  - agent_name: Watson, Eugene Winslow
+    birthdate: 1843
+    deathdate: 1914
+    gutenberg_agent_id: '26625'
+    url: http://www.gutenberg.org/2009/agents/26625
+  - agent_name: Greene, Samuel Dana
+    birthdate: 1839
+    deathdate: 1884
+    gutenberg_agent_id: '26623'
+    url: http://www.gutenberg.org/2009/agents/26623
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2008-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24612'
+  lccn: '12004865'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Merrimack (Frigate)'
+- !lcsh 'Hampton Roads, Battle of, Va., 1862'
+- !lcsh 'Monitor (Ironclad)'
+- !lcc 'E456'
+- !lcsh 'Naval battles'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Naval operations'
+title: 'The Monitor and the Merrimac
+
+  Both sides of the story'
+url: http://www.gutenberg.org/ebooks/24612
